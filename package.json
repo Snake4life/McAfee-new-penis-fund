@@ -1,0 +1,25 @@
+{
+  "name": "mcafee-new-penis-fund",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/speakerwiggin/McAfee-new-penis-fund.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/speakerwiggin/McAfee-new-penis-fund/issues"
+  },
+  "homepage": "https://github.com/speakerwiggin/McAfee-new-penis-fund#readme",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2",
+    "twitter": "^1.7.1"
+  }
+}
