@@ -1,7 +1,7 @@
 // put your twitter creds in secure-config.js
 const secrets = require('./secure-config')
 const Twitter = require('twitter')
-const client = new Twitter(secrets)
+const client = new Twitter(secrets.twitter)
 const _ = require('lodash')
 const request = require('request-promise')
 
